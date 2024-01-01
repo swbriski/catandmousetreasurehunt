@@ -1,8 +1,15 @@
+html {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  background-color: #d4f0f0
+}
+
 .gameboard {
   display: flex;
   flex-wrap: wrap;
-  align-content: center;
-  width: 470px;
+  width: 462px;
+  background-color: #f5f0f6
 }
 
 .square {
